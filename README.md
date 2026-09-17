@@ -64,6 +64,4 @@ Tested by installing, verifying, fully uninstalling (with independent verificati
 
 This resolves the scenario described as unsolved in [Guilouz/Creality-Helper-Script-Wiki discussion #444](https://github.com/Guilouz/Creality-Helper-Script-Wiki/discussions/444) ("Camera Settings Control for K1 Max with new hardware version").
 
-## License
 
-MIT (or pick whatever you prefer before publishing).
